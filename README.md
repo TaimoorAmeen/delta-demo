@@ -5,4 +5,4 @@ This is an example of Git &amp; GitHub Class.
 Taimoor Ameen
 
 # Student
-Mariyum 
+Adnan 
